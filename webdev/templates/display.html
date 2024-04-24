@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Pieces matching:</h1>
+    {% for object in obj_data %}
+    <h2> print</h2>
+    <h2> {{object.objectID}}</h2>
+    <h5> {{object.objectName}}</h2>
+    <h5> {{object.title}}</h5>
+    <p>{<a href="{{object.primaryImage}}">image}</a></p>
+    {% endfor %}
+</body>
+</html>
+

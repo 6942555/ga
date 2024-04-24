@@ -1,0 +1,16 @@
+player_choice,computer_choice,result
+rock,paper,loss
+rock,scissors,win
+rock,rock,tie
+rock,scissors,win
+rock,rock,tie
+rock,scissors,win
+paper,rock,win
+paper,scissors,loss
+paper,paper,tie
+paper,paper,tie
+rock,paper,loss
+rock,rock,tie
+paper,rock,win
+paper,scissors,loss
+paper,paper,tie
