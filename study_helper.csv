@@ -1,0 +1,5 @@
+question,responses,correct_response,tags
+is it good,"['yes', 'no', 'maybe']",maybe,['']
+is it cool,"['yes', 'no', 'maybe']",no,['']
+am i tired,"['yes', 'no', 'maybe']",yes,['']
+whats up,"['dunno', 'doknow']",dunno,['']
